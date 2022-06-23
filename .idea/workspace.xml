@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="076ff18d-45d8-4cd1-8509-dcd9a03812fe" name="Changes" comment="sortBy and groupBy">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/testSet.kt" afterDir="false" />
+    <list default="true" id="076ff18d-45d8-4cd1-8509-dcd9a03812fe" name="Changes" comment="union, subtract and intersect">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/testMap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TestSetKt">
+  <component name="RunManager" selected="Kotlin.TestMapKt">
     <configuration name="TestListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestListKt" />
       <module name="consoleApp" />
@@ -47,15 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestSetKt" />
+    <configuration name="TestMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestMapKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TesteArrayStringKt" />
+    <configuration name="TestSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestSetKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestMapKt" />
         <item itemvalue="Kotlin.TestSetKt" />
         <item itemvalue="Kotlin.TestListKt" />
         <item itemvalue="Kotlin.TesteOperacoesKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
-        <item itemvalue="Kotlin.TesteArrayStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656019524504</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="union, subtract and intersect">
+      <created>1656020292484</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656020292484</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +174,7 @@
     <MESSAGE value="filter and Double Array of" />
     <MESSAGE value="filter, find e any" />
     <MESSAGE value="sortBy and groupBy" />
-    <option name="LAST_COMMIT_MESSAGE" value="sortBy and groupBy" />
+    <MESSAGE value="union, subtract and intersect" />
+    <option name="LAST_COMMIT_MESSAGE" value="union, subtract and intersect" />
   </component>
 </project>
