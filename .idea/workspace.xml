@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="076ff18d-45d8-4cd1-8509-dcd9a03812fe" name="Changes" comment="created map whit &quot;pair&quot; and &quot;..to..&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/BigDecimal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/Repositorio.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TesteColecoesMutaveis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TesteFuncoesEstendida.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TesteMutavelMap.kt" afterDir="false" />
+    <list default="true" id="076ff18d-45d8-4cd1-8509-dcd9a03812fe" name="Changes" comment="Funções estendidas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656021188359</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Funções estendidas">
+      <created>1656025242709</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656025242709</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +189,7 @@
     <MESSAGE value="sortBy and groupBy" />
     <MESSAGE value="union, subtract and intersect" />
     <MESSAGE value="created map whit &quot;pair&quot; and &quot;..to..&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="created map whit &quot;pair&quot; and &quot;..to..&quot;" />
+    <MESSAGE value="Funções estendidas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funções estendidas" />
   </component>
 </project>
