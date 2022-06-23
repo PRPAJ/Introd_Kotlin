@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="076ff18d-45d8-4cd1-8509-dcd9a03812fe" name="Changes" comment="union, subtract and intersect">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/testMap.kt" afterDir="false" />
+    <list default="true" id="076ff18d-45d8-4cd1-8509-dcd9a03812fe" name="Changes" comment="created map whit &quot;pair&quot; and &quot;..to..&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/BigDecimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/Repositorio.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TesteColecoesMutaveis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TesteFuncoesEstendida.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TesteMutavelMap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TestMapKt">
-    <configuration name="TestListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestListKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TesteFuncoesEstendidaKt">
     <configuration name="TestMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestMapKt" />
       <module name="consoleApp" />
@@ -61,15 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TesteDoubleArrayKt" />
+    <configuration name="TesteColecoesMutaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TesteColecoesMutaveisKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteOperacoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TesteOperacoesKt" />
+    <configuration name="TesteFuncoesEstendidaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TesteFuncoesEstendidaKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMutavelMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TesteMutavelMapKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteFuncoesEstendidaKt" />
+        <item itemvalue="Kotlin.TesteMutavelMapKt" />
+        <item itemvalue="Kotlin.TesteColecoesMutaveisKt" />
         <item itemvalue="Kotlin.TestMapKt" />
         <item itemvalue="Kotlin.TestSetKt" />
-        <item itemvalue="Kotlin.TestListKt" />
-        <item itemvalue="Kotlin.TesteOperacoesKt" />
-        <item itemvalue="Kotlin.TesteDoubleArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656020292484</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="created map whit &quot;pair&quot; and &quot;..to..&quot;">
+      <created>1656021188359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656021188359</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +186,7 @@
     <MESSAGE value="filter, find e any" />
     <MESSAGE value="sortBy and groupBy" />
     <MESSAGE value="union, subtract and intersect" />
-    <option name="LAST_COMMIT_MESSAGE" value="union, subtract and intersect" />
+    <MESSAGE value="created map whit &quot;pair&quot; and &quot;..to..&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="created map whit &quot;pair&quot; and &quot;..to..&quot;" />
   </component>
 </project>
